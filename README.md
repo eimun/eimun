@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eimun</h1>
-<h3 align="center">🚀 AI & Full-Stack Developer building scalable systems with LLMs</h3>
+<h3 align="center">🚀 AI & Full-Stack Developer | Building Scalable AI Systems (RAG, LLMs)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eimun-purti">
@@ -21,7 +21,10 @@
 ## 🔥 Projects
 
 * 🚀 **Trendora** – AI-powered trend intelligence platform
-* 📋 **Syncly** – Task management app with advanced state management
+  *React • Flask • PostgreSQL • LLMs*
+
+* 📋 **Syncly** – Advanced task management app
+  *JavaScript • State Management*
 
 ---
 
