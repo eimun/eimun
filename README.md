@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eimun Akit Purti</h1>
-<h3 align="center">AI & Full-Stack Developer | 3rd Place @ Lyzr Agentathon | B.Tech CSE @ PST</h3>
+<h3 align="center">AI & Full-Stack Developer | B.Tech CSE Student @ PST</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eimun-akit-purti-b5063a1aa" target="_blank">
+  <a href="https://www.linkedin.com/in/eimun-purti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/Eimun/" target="_blank">
@@ -19,9 +19,8 @@
 I am a software developer operating at the intersection of modern web architecture and artificial intelligence. I focus on building robust systems, reducing latency, and integrating LLMs into real-world applications.
 
 - 🎓 **Education:** B.Tech CSE Student at Polaris School of Technology, Bengaluru
-- 🏆 **Recent Win:** 3rd Place Winner nationwide at the Lyzr Agentathon 2026
 - 💻 **Specialties:** RAG architectures, prompt engineering, zero-dependency UIs, and API integrations
-- ⚡ **Fun Fact:** Co-organized India's largest Replit "vibe-coding" hackathon for 1,200+ attendees!
+- ⚡ **Current Focus:** Building highly scalable backend architectures and data-driven intelligence platforms
 
 ---
 
@@ -46,11 +45,6 @@ A full-stack data pipeline and analytics SPA that visualizes global internet tre
 A highly responsive, zero-dependency task management architecture.
 * **Tech:** `Vanilla JS (ES6+)` `HTML5` `CSS3` `LocalStorage`
 * **Impact:** Architected a strict Pub-Sub design pattern and a stack-based algorithm for complex Undo/Redo functionality via JSON snapshots.
-
-#### [GitLink – AI Developer Discovery](https://gitlink.builderfellows.com)
-An AI-powered tool that aggregates and analyzes GitHub profiles to streamline tech recruitment.
-* **Tech:** `AI Agents` `LLMs` `Full-Stack`
-* **Impact:** Secured 3rd position nationwide at the Lyzr Agentathon.
 
 ---
 
