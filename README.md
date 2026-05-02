@@ -1,49 +1,64 @@
-<h1 align="center">Hi 👋, I'm Eimun</h1>
-<h3 align="center">🚀 AI & Full-Stack Developer | Building Scalable AI Systems (RAG, LLMs)</h3>
+<h1 align="center">Hi 👋, I'm Eimun Akit Purti</h1>
+<h3 align="center">AI & Full-Stack Developer | 3rd Place @ Lyzr Agentathon | B.Tech CSE @ PST</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eimun-purti">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  <a href="https://www.linkedin.com/in/eimun-akit-purti-b5063a1aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20FullStack-black" />
+  <a href="https://leetcode.com/u/Eimun/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/eimun_07" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
+I am a software developer operating at the intersection of modern web architecture and artificial intelligence. I focus on building robust systems, reducing latency, and integrating LLMs into real-world applications.
 
-* 💡 Building AI-powered full-stack applications
-* 🧠 Working with RAG systems & LLM integrations
-* ⚡ Focused on performance, scalability, and real-world impact
-
----
-
-## 🔥 Projects
-
-* 🚀 **Trendora** – AI-powered trend intelligence platform
-  *React • Flask • PostgreSQL • LLMs*
-
-* 📋 **Syncly** – Advanced task management app
-  *JavaScript • State Management*
+- 🎓 **Education:** B.Tech CSE Student at Polaris School of Technology, Bengaluru
+- 🏆 **Recent Win:** 3rd Place Winner nationwide at the Lyzr Agentathon 2026
+- 💻 **Specialties:** RAG architectures, prompt engineering, zero-dependency UIs, and API integrations
+- ⚡ **Fun Fact:** Co-organized India's largest Replit "vibe-coding" hackathon for 1,200+ attendees!
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,python,flask,postgres,mongodb,js" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,react,tailwind,html,css,nodejs,express,flask,postgres,mongodb,git,github,postman&perline=7" />
+  </a>
 </p>
 
 ---
 
-## 📈 Current Focus
+### 🔥 Featured Projects
 
-* Building AI-driven applications
-* Improving system design & backend scalability
+#### [Trendora – AI Trend Intelligence Platform](https://github.com/eimun/Trendora-ojt)
+A full-stack data pipeline and analytics SPA that visualizes global internet trends.
+* **Tech:** `React.js` `Flask` `PostgreSQL` `Llama 3` `Groq API`
+* **Impact:** Built a robust backend proxy and PostgreSQL caching layer around the Google Trends API, reducing secondary server response times to <100ms.
+
+#### [SYNCLY – Advanced Task Management](https://github.com/ambitiousaura/Ojt-Project)
+A highly responsive, zero-dependency task management architecture.
+* **Tech:** `Vanilla JS (ES6+)` `HTML5` `CSS3` `LocalStorage`
+* **Impact:** Architected a strict Pub-Sub design pattern and a stack-based algorithm for complex Undo/Redo functionality via JSON snapshots.
+
+#### [GitLink – AI Developer Discovery](https://gitlink.builderfellows.com)
+An AI-powered tool that aggregates and analyzes GitHub profiles to streamline tech recruitment.
+* **Tech:** `AI Agents` `LLMs` `Full-Stack`
+* **Impact:** Secured 3rd position nationwide at the Lyzr Agentathon.
 
 ---
 
-## 🌐 Connect
+### 📊 GitHub Stats
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/eimun-purti
-* 💻 GitHub: https://github.com/eimun
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eimun&show_icons=true&theme=tokyonight" alt="Eimun's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimun&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<!-- Proudly created with Markdown -->
