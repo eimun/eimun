@@ -47,9 +47,9 @@ A highly responsive, zero-dependency task management architecture.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eimun&show_icons=true&theme=tokyonight" alt="Eimun's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimun&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=eimun&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eimun&theme=tokyonight" alt="GitHub Profile Details" width="48%" />
+</p>
 <!-- Proudly created with Markdown -->
