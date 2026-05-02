@@ -5,11 +5,8 @@
   <a href="https://www.linkedin.com/in/eimun-purti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/Eimun/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.codechef.com/users/eimun_07" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  <a href="https://x.com/eimun1?s=21" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
 
@@ -36,12 +33,12 @@ I am a software developer operating at the intersection of modern web architectu
 
 ### 🔥 Featured Projects
 
-#### [Trendora – AI Trend Intelligence Platform](https://github.com/eimun/Trendora-ojt)
+#### [Trendora – AI Trend Intelligence Platform](https://github.com/eimun/Trendora-ojt) | [trendora-ojt.vercel.app](https://trendora-ojt.vercel.app)
 A full-stack data pipeline and analytics SPA that visualizes global internet trends.
 * **Tech:** `React.js` `Flask` `PostgreSQL` `Llama 3` `Groq API`
 * **Impact:** Built a robust backend proxy and PostgreSQL caching layer around the Google Trends API, reducing secondary server response times to <100ms.
 
-#### [SYNCLY – Advanced Task Management](https://github.com/ambitiousaura/Ojt-Project)
+#### [SYNCLY – Advanced Task Management](https://github.com/ambitiousaura/Ojt-Project) | [https://ambitiousaura.github.io/Ojt-Project/](https://ambitiousaura.github.io/Ojt-Project/)
 A highly responsive, zero-dependency task management architecture.
 * **Tech:** `Vanilla JS (ES6+)` `HTML5` `CSS3` `LocalStorage`
 * **Impact:** Architected a strict Pub-Sub design pattern and a stack-based algorithm for complex Undo/Redo functionality via JSON snapshots.
