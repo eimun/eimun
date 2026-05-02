@@ -33,12 +33,12 @@ I am a software developer operating at the intersection of modern web architectu
 
 ### 🔥 Featured Projects
 
-#### [Trendora – AI Trend Intelligence Platform](https://github.com/eimun/Trendora-ojt) | [trendora-ojt.vercel.app](https://trendora-ojt.vercel.app)
+#### [Trendora – AI Trend Intelligence Platform](https://github.com/eimun/Trendora-ojt) | [🌐 Live Demo](https://trendora-ojt.vercel.app)
 A full-stack data pipeline and analytics SPA that visualizes global internet trends.
 * **Tech:** `React.js` `Flask` `PostgreSQL` `Llama 3` `Groq API`
 * **Impact:** Built a robust backend proxy and PostgreSQL caching layer around the Google Trends API, reducing secondary server response times to <100ms.
 
-#### [SYNCLY – Advanced Task Management](https://github.com/ambitiousaura/Ojt-Project) | [https://ambitiousaura.github.io/Ojt-Project/](https://ambitiousaura.github.io/Ojt-Project/)
+#### [SYNCLY – Advanced Task Management](https://github.com/ambitiousaura/Ojt-Project) | [🌐 Live Demo](https://ambitiousaura.github.io/Ojt-Project/)
 A highly responsive, zero-dependency task management architecture.
 * **Tech:** `Vanilla JS (ES6+)` `HTML5` `CSS3` `LocalStorage`
 * **Impact:** Architected a strict Pub-Sub design pattern and a stack-based algorithm for complex Undo/Redo functionality via JSON snapshots.
