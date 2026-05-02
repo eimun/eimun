@@ -1,16 +1,30 @@
-## Hi there 👋
+ <h1 align="center">Hi 👋, I'm Eimun</h1>
+<h3 align="center">AI & Full-Stack Developer building scalable systems with LLMs</h3>
 
-<!--
-**eimun/eimun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💡 I build AI-powered full-stack applications
+* 🧠 Focused on RAG systems, LLM integrations, and backend performance
+* ⚡ Passionate about solving real-world problems with code
+
+---
+
+## 🔥 Projects
+
+* 🚀 **Trendora** – AI-powered trend intelligence platform
+* 📋 **Syncly** – Task management app with advanced state management
+
+---
+
+## 🛠 Tech Stack
+
+React • Python • Flask • PostgreSQL • MongoDB • LLMs
+
+---
+
+## 🌐 Connect
+
+* LinkedIn: https://www.linkedin.com/in/eimun-purti
+* GitHub: https://github.com/eimun
